@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: beige
+    
+}
+
+.btn, .btn-primary {
+    text-align: center
+}
+
+.text-center {
+    font-size: 50px;
+    color: navy;
+    border: black;
+    
+
+}
